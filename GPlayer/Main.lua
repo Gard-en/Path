@@ -93,7 +93,7 @@ end
 
 end);
 
-SLASH_PJ1, SLASH_PJ2 = '/pj', '/pjdj';
+SLASH_GPlayer1, SLASH_GPlayer2 = '/gp', '/gplayer';
 local function handler(message, editBox)
 
 	if message:match("join") then
@@ -154,4 +154,4 @@ local function handler(message, editBox)
 
 
 end
-SlashCmdList["PJ"] = handler;
+SlashCmdList["GPlayer"] = handler;

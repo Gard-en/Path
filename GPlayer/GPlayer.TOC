@@ -1,8 +1,8 @@
 ## Interface: 70100
-## Title: PJ DJ
+## Title: GPlayer
 ## Version: 1
-## Notes: ♫ Play sounds and music♪
-## Author: Grandmaster Pa
+## Notes: ♫ Play sounds and music ♪
+## Author: Gardener
 ## DefaultState: Enabled
 ## SavedVariablesPerCharacter: DJChan, DJPlayList
 Main.lua
