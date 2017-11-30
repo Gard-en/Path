@@ -1,0 +1,10 @@
+## Interface: 70100
+## Title: PJ DJ
+## Version: 1
+## Notes: ♫ Play sounds and music♪
+## Author: Grandmaster Pa
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: DJChan, DJPlayList
+Main.lua
+pj_list.lua
+
