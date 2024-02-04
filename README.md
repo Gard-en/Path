@@ -1,6 +1,3 @@
-# Path
-Music plays along the Garden's path
-
 World of Warcraft AddOn.
 
 Add music packs, and play music in-game. If others have the same music as you, they can hear it too.
